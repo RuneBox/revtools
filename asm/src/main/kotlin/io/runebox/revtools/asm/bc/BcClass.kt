@@ -1,6 +1,5 @@
 package io.runebox.revtools.asm.bc
 
-import io.runebox.revtools.asm.BcClassPool
 import org.objectweb.asm.Opcodes.ACC_PRIVATE
 import org.objectweb.asm.Opcodes.ACC_STATIC
 import org.objectweb.asm.tree.ClassNode

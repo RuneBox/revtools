@@ -1,6 +1,6 @@
 package io.runebox.revtools.asm.remap
 
-import io.runebox.revtools.asm.BcClassPool
+import io.runebox.revtools.asm.bc.BcClassPool
 import org.objectweb.asm.commons.Remapper
 import org.objectweb.asm.tree.AbstractInsnNode
 
